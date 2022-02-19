@@ -5,7 +5,7 @@
 
 <a href="psoyeongg@gmail.com"><img src="https://img.shields.io/badge/psoyeongg@gmail.com-ea4536?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.instagram.com/_smile_bread/?hl=ko"><img src="https://img.shields.io/badge/@__smile__bread-db436e?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-👋 Hi there! I'm <b>Front-end web developer</b> using Javascript and React.💙
+👋 Hi there! I'm <b>Frontend web developer</b> using Javascript and React.💙
 
 I like to eat and drink.🍖🍻 </br>
 I want to enjoy developing it forever.💓 
