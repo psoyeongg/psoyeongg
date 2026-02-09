@@ -16,7 +16,7 @@ I want to enjoy developing it forever.💓
 <img src="https://img.shields.io/badge/Javascript-de9d27?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-5998d5?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-17b6e7?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-1ea1bb?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
 
 ### Tools
-<img src="https://img.shields.io/badge/IntelliJ-black?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-2588cf?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-e84e31?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-e84e31?style=flat-square&logo=Git&logoColor=white"/>
 
 
 <!--
